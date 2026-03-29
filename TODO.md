@@ -1,0 +1,1 @@
+- [x] Step 1: Update snake.yml (action v5.3.0, remove push trigger)

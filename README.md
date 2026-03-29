@@ -4,7 +4,6 @@
 </div>
 
 ###
-
 <img align="right" height="200" src="https://media.tenor.com/25m-7HFHeBkAAAAm/jojo-pixel.webp"  />
 
 ###
@@ -34,8 +33,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZIIX02/ZIIX02/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ###
+
+<br clear="both">
+
 
 <div align="center">
   <img height="459" src="https://i.pinimg.com/originals/40/0f/00/400f007bade76022eb839fdbb5acf646.gif"  />
@@ -45,4 +46,4 @@
 
 <img src="https://raw.githubusercontent.com/ZIIX02/ZIIX02/output/snake.svg" alt="Snake animation" />
 
-
+###
