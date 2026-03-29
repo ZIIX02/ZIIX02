@@ -3,9 +3,11 @@
   <img height="500" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  />
 </div>
 
+###
 
 <img align="right" height="200" src="https://media.tenor.com/25m-7HFHeBkAAAAm/jojo-pixel.webp"  />
 
+###
 
 <h4 align="left">Halo! 👋<br>Perkenalkan, nama saya Safitrah Salam. Saya memiliki ketertarikan di bidang teknologi, khususnya dalam pengembangan website dan aplikasi.<br><br>Hobi saya adalah bermain game 🎮, yang tidak hanya menjadi hiburan, tetapi juga membantu saya memahami pengalaman pengguna (user experience) dari sudut pandang yang berbeda.<br><br>Saya terus belajar dan mengembangkan kemampuan saya dalam dunia programming dan desain, serta senang mencoba hal-hal baru untuk meningkatkan skill yang saya miliki.<br><br>Selamat datang di repository saya! 🚀</h4>
 
@@ -34,9 +36,6 @@
 
 ###
 
-<br clear="both">
-
-
 <div align="center">
   <img height="459" src="https://i.pinimg.com/originals/40/0f/00/400f007bade76022eb839fdbb5acf646.gif"  />
 </div>
@@ -45,4 +44,4 @@
 
 <img src="https://raw.githubusercontent.com/ZIIX02/ZIIX02/output/snake.svg" alt="Snake animation" />
 
-###
+
