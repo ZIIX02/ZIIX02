@@ -43,5 +43,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/ZIIX02/ZIIX02/output/snake.svg" alt="Snake animation" />
 
 ###
