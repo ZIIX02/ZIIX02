@@ -26,7 +26,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
-
+<h4 align="center">kata-kata hari ini</h4>
+<h4 align="center"><i>"Jangan berkembang biak sebelum berkembang baik 👍"</i></h4>
 <br clear="both">
 
 
@@ -39,3 +40,4 @@
 <img src="https://raw.githubusercontent.com/ZIIX02/ZIIX02/output/snake.svg" alt="Snake animation" />
 
 ###
+
